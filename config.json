@@ -3,7 +3,7 @@
   "providers": {
     "oddsapi": {
       "api_key": "PUT_YOUR_KEY_HERE",
-      "regions": "us,eu",
+      "regions": "eu",
       "markets": "h2h,spreads,totals",
       "odds_format": "decimal"
     }

@@ -2,7 +2,7 @@
   "db_path": "valuebot.sqlite",
   "providers": {
     "oddsapi": {
-      "api_key": "PUT_YOUR_KEY_HERE",
+      "api_key": "971557e80f85726ebd3b78a5c2f730cd",
       "regions": "eu",
       "markets": "h2h,spreads,totals",
       "odds_format": "decimal"
